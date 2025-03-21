@@ -54,7 +54,7 @@ movielist/
    ```
 3. Instale as dependências:
    ```bash
-   npm create vite@latest
+   npm install vite@latest
    ```
 4. Inicie o servidor de desenvolvimento:
    ```bash
