@@ -1,7 +1,7 @@
 # MovieListProject
 
 Este projeto é uma aplicação React para listar filmes populares e permitir a busca de filmes. Os usuários também podem adicionar filmes aos seus favoritos.
-
+![Image](https://github.com/user-attachments/assets/a771f42d-486a-4884-a452-34a76c028244)
 ## Tecnologias Utilizadas
 
 - **React**
