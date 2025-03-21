@@ -50,11 +50,11 @@ movielist/
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd movielist
+   cd MovieListProject
    ```
 3. Instale as dependências:
    ```bash
-   npm install
+   npm create vite@latest
    ```
 4. Inicie o servidor de desenvolvimento:
    ```bash
