@@ -56,7 +56,10 @@ movielist/
    ```bash
    npm install vite@latest
    ```
-4. Inicie o servidor de desenvolvimento:
+4. Instale as dependências:
+      Pegue sua API no https://www.themoviedb.org/settings/api
+
+5. Inicie o servidor de desenvolvimento:
    ```bash
    npm run dev
    ```
